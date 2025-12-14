@@ -71,7 +71,7 @@ OS Module – Executes Python files and manages system-level operations
 
 **⚙️ How the System Works**
 
-1️⃣ App Menu (app.py)
+# 1️⃣ App Menu (app.py)
 
 Displays two options:
 
@@ -86,7 +86,7 @@ Uses os.system() to execute other Python files
 
 ---
 
-2️⃣ Face Recognition Module (main.py)
+# 2️⃣ Face Recognition Module (main.py)
 
 Loads known student images from the dataset
 
@@ -106,7 +106,7 @@ Stores name, date, and time in the SQLite database
 
 ---
 
-3️⃣ Attendance Viewer (view_attendance.py)
+# 3️⃣ Attendance Viewer (view_attendance.py)
 
 Built using Tkinter GUI
 
@@ -120,7 +120,7 @@ Displays data in a tabular format
 
 ---
 
-🗄️ Database Design
+**🗄️ Database Design**
 
 Database Name: attendance.db
 Table Name: attendance
