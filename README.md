@@ -224,8 +224,6 @@ Mask detection support
 
 Attendance report export (PDF / Excel)
 
-
-
 ---
 
 👨‍🎓 Developed By
