@@ -4,6 +4,7 @@
 
 The Attendance System Using Face Recognition is a smart and automated solution that records attendance using facial recognition technology.
 It eliminates manual attendance processes, minimizes proxy attendance, and improves accuracy by identifying individuals through their unique facial features in real time.
+
 The system is developed using Python and integrates concepts of Computer Vision, Artificial Intelligence, and Database Management to provide a reliable, secure, and user-friendly attendance solution.
 
 
