@@ -7,7 +7,6 @@ It eliminates manual attendance processes, minimizes proxy attendance, and impro
 
 The system is developed using Python and integrates concepts of Computer Vision, Artificial Intelligence, and Database Management to provide a reliable, secure, and user-friendly attendance solution.
 
-
 ---
 
 **🎯 Objectives**
