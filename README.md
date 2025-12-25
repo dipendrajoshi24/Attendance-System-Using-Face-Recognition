@@ -1,5 +1,4 @@
 # 🎓 Attendance System Using Face Recognition
-
 ## 📌 Project Overview
 
 The  Attendance   System Using Face Recognition is a smart and automated solution that records attendance using facial recognition technology.It eliminates manual attendance processes, minimizes proxy attendance, and improves accuracy by identifying individuals through their unique facial features in real time.
