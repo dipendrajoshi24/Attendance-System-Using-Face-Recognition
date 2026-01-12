@@ -45,8 +45,6 @@ OS Module – Executes Python files and manages system-level operations
 
 **Datetime** – Records date and time of attendance
 
-
-
 ---
 
 **🧩 Project Structure**
@@ -59,7 +57,6 @@ OS Module – Executes Python files and manages system-level operations
 ├── attendance.db          # SQLite database (auto-created)
 ├── dipendra.jpg           # Sample student image
 ├── README.md              # Project documentation
-
 
 ---
 
@@ -75,8 +72,6 @@ View Attendance Records
 
 
 Uses os.system() to execute other Python files
-
-
 
 ---
 
@@ -95,8 +90,6 @@ Uses blink detection (Eye Aspect Ratio) to verify liveness
 Marks attendance only once per day for each student
 
 Stores name, date, and time in the SQLite database
-
-
 
 ---
 
