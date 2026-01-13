@@ -104,7 +104,6 @@ Allows searching attendance by student name
 Displays data in a tabular format
 
 
-
 ---
 
 **🗄️ Database Design**
