@@ -192,8 +192,6 @@ Training Institutes
 
 Laboratories and Workshops
 
-
-
 ---
 
 🔮 Future Enhancements
@@ -217,7 +215,6 @@ Attendance report export (PDF / Excel)
 Dipendra Joshi
 BCA Student
 Graphic Era Hill University
-
 
 ---
 
