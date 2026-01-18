@@ -5,7 +5,6 @@ The  Attendance   System Using Face Recognition is a smart and automated solutio
 
 The system is developed using Python and integrates concepts of Computer Vision, Artificial Intelligence, and Database Management to provide a reliable, secure, and user-friendly attendance solution.
 
----
 **🎯 Objectives**
 
 Automate the attendance marking process
