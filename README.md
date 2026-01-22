@@ -214,8 +214,6 @@ Dipendra Joshi
 BCA Student
 Graphic Era Hill University
 
----
-
 📜 License
 
 This project is developed for educational purposes and mini-project submission only.
