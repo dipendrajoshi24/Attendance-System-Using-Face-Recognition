@@ -190,8 +190,6 @@ Training Institutes
 
 Laboratories and Workshops
 
----
-
 🔮 Future Enhancements
 
 Cloud database integration
