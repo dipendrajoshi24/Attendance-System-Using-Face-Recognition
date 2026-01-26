@@ -17,8 +17,6 @@ Provide an easy interface to view attendance data
 
 Enable a contactless and efficient attendance system
 
----
-
 **🧠** Technologies & Libraries Used
 
 **🔹** Programming Language
