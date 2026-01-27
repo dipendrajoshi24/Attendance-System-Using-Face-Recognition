@@ -88,7 +88,6 @@ Marks attendance only once per day for each student
 
 Stores name, date, and time in the SQLite database
 
----
 
 # 3️⃣ Attendance Viewer (view_attendance.py)
 
