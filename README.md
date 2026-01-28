@@ -55,7 +55,6 @@ OS Module – Executes Python files and manages system-level operations
 ├── dipendra.jpg           # Sample student image
 ├── README.md              # Project documentation
 
----
 
 **⚙️ How the System Works**
 
