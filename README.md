@@ -169,9 +169,6 @@ python app.py
 
 2 → View Attendance Records
 
-
----
-
 📌 Applications
 
 Colleges and Universities
