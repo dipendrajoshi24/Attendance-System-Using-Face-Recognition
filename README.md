@@ -42,8 +42,6 @@ OS Module – Executes Python files and manages system-level operations
 
 **Datetime** – Records date and time of attendance
 
----
-
 **🧩 Project Structure**
 
 # Attendance-System-Using-Face-Recognition/
