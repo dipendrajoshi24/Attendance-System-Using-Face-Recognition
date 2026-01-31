@@ -122,9 +122,6 @@ Pattern Recognition
 
 
 
-
----
-
 ✅ Features
 
 Real-time face detection and recognition
