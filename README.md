@@ -67,8 +67,6 @@ View Attendance Records
 
 Uses os.system() to execute other Python files
 
----
-
 # 2️⃣ Face Recognition Module (main.py)
 
 Loads known student images from the dataset
@@ -97,23 +95,15 @@ Allows searching attendance by student name
 Displays data in a tabular format
 
 
----
-
 **🗄️ Database Design**
-
 Database Name: attendance.db
 Table Name: attendance
 
 Column	Description
-
 id	Auto-increment primary key
 name	Student name
 time	Time of attendance
 date	Date of attendance
-
-
-
----
 
 🤖 AI / ML Concepts Used
 
