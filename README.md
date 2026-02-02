@@ -118,7 +118,7 @@ Liveness Detection using Eye Blink
 Pattern Recognition
 
 
-> Note: This project uses pre-trained models, so no manual model training is required.
+Note: This project uses pre-trained models, so no manual model training is required.
 
 
 
