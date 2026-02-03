@@ -121,7 +121,6 @@ Pattern Recognition
 Note: This project uses pre-trained models, so no manual model training is required.
 
 
-
 ✅ Features
 
 Real-time face detection and recognition
