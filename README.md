@@ -175,7 +175,7 @@ Mask detection support
 
 Attendance report export (PDF / Excel)
 
-👨‍🎓 Developed By
+Developed By
 
 Dipendra Joshi
 
