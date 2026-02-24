@@ -22,7 +22,6 @@ Enable a contactless and efficient attendance system
 
 Python – Core language used to develop the system
 
-
 **🔹 Libraries**
 *OpenCV (cv2)* – Captures real-time video and processes images
 895017
