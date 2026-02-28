@@ -59,7 +59,6 @@ Start Attendance System
 
 View Attendance Records
 
-
 Uses os.system() to execute other Python files
 
 # 2️⃣ Face Recognition Module (main.py)
