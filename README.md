@@ -174,7 +174,7 @@ Developed By
 
 Dipendra Joshi
 
-📜 License
+# License
 
 This project is developed for educational purposes and mini-project submission only.
 
