@@ -158,6 +158,7 @@ Laboratories and Workshops
 
 🔮 Future Enhancements
 
+
 Cloud database integration
 
 Web-based attendance dashboard
