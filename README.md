@@ -128,7 +128,7 @@ Simple and clean GUI
 Beginner-friendly and easy to understand
 
 
-🚀 How to Run the Project
+How to Run the Project
 
 1️⃣ Install Required Libraries
 
