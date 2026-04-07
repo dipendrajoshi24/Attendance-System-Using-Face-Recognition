@@ -158,7 +158,7 @@ Training Institutes
 
 Laboratories and Workshops
 
-🔮 Future Enhancements
+# Future Enhancements
 
 Cloud database integration
 
