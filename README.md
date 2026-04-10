@@ -1,4 +1,4 @@
-# Attendance System Using Face Recognition
+## Attendance System Using Face Recognition
 
 ## 📌 Project Overview
 
@@ -6,7 +6,7 @@ The  Attendance   System Using Face Recognition is a smart and automated solutio
 
 The system is developed using Python and integrates concepts of Computer Vision, Artificial Intelligence, and Database Management to provide a reliable, secure, and user-friendly attendance solution.
 
-** Objectives**
+## ** Objectives**
 
 Automate the attendance marking process
 
@@ -18,13 +18,13 @@ Provide an easy interface to view attendance data
 
 Enable a contactless and efficient attendance system
 
-**🧠** Technologies & Libraries Used
+## **🧠** Technologies & Libraries Used
 
-**🔹** Programming Language
+## **🔹** Programming Language
 
 Python – Core language used to develop the system
 
-**🔹 Libraries**
+## **🔹 Libraries**
 *OpenCV (cv2)* – Captures real-time video and processes images
 895017
 face_recognition – Detects and recognizes faces using deep learning
@@ -41,7 +41,7 @@ OS Module – Executes Python files and manages system-level operations
 
 **Datetime** – Records date and time of attendance
 
-**🧩 Project Structure**
+## **🧩 Project Structure**
 # Attendance-System-Using-Face-Recognition/
 │
 ├── app.py                 # Main menu (Start system / View attendance)
@@ -51,9 +51,9 @@ OS Module – Executes Python files and manages system-level operations
 ├── dipendra.jpg           # Sample student image
 ├── README.md              # Project documentation
 
-**⚙️ How the System Works**
+## **⚙️ How the System Works**
 
-# 1️⃣ App Menu (app.py)
+## 1️⃣ App Menu (app.py)
 
 Displays two options:
 
@@ -63,7 +63,7 @@ View Attendance Records
 
 Uses os.system() to execute other Python files
 
-# 2️⃣ Face Recognition Module (main.py)
+## 2️⃣ Face Recognition Module (main.py)
 
 Loads known student images from the dataset
 
@@ -80,7 +80,7 @@ Marks attendance only once per day for each student
 Stores name, date, and time in the SQLite database
 
 
-# 3️⃣ Attendance Viewer (view_attendance.py)
+## 3️⃣ Attendance Viewer (view_attendance.py)
 
 Built using Tkinter GUI
 
@@ -91,7 +91,7 @@ Allows searching attendance by student name
 Displays data in a tabular format
 
 
-**🗄️ Database Design**
+## **🗄️ Database Design**
 Database Name: attendance.db
 Table Name: attendance
 
@@ -101,7 +101,7 @@ name	Student name
 time	Time of attendance
 date	Date of attendance
 
-🤖 AI / ML Concepts Used
+## 🤖 AI / ML Concepts Used
 
 Face Encoding and Matching
 
@@ -115,7 +115,7 @@ Pattern Recognition
 
 Note: This project uses pre-trained models, so no manual model training is required.
 
-✅ Features
+## ✅ Features
 
 Real-time face detection and recognition
 
@@ -132,21 +132,21 @@ Beginner-friendly and easy to understand
 
 How to Run the Project
 
-1️⃣ Install Required Libraries
+## 1️⃣ Install Required Libraries
 
 pip install opencv-python face_recognition mediapipe numpy
 
-2️⃣ Run the Application
+## 2️⃣ Run the Application
 
 python app.py
 
-3️⃣ Choose an Option
+## 3️⃣ Choose an Option
 
 1 → Start Attendance System
 
 2 → View Attendance Records
 
-📌 Applications
+## 📌 Applications
 
 Colleges and Universities
 
@@ -158,7 +158,7 @@ Training Institutes
 
 Laboratories and Workshops
 
-# Future Enhancements
+## Future Enhancements
 
 Cloud database integration
 
@@ -172,11 +172,9 @@ Mask detection support
 
 Attendance report export (PDF / Excel)
 
-Developed By
+## Developed By Dipendra Joshi
 
-Dipendra Joshi
-
-# License
+## License
 
 This project is developed for educational purposes and mini-project submission only.
 
