@@ -6,7 +6,7 @@ The  Attendance   System Using Face Recognition is a smart and automated solutio
 
 The system is developed using Python and integrates concepts of Computer Vision, Artificial Intelligence, and Database Management to provide a reliable, secure, and user-friendly attendance solution.
 
-## ** Objectives**
+##  Objectives
 
 Automate the attendance marking process
 
@@ -18,13 +18,13 @@ Provide an easy interface to view attendance data
 
 Enable a contactless and efficient attendance system
 
-## **🧠** Technologies & Libraries Used
+## 🧠 Technologies & Libraries Used
 
-## **🔹** Programming Language
+## 🔹 Programming Language
 
 Python – Core language used to develop the system
 
-## **🔹 Libraries**
+## 🔹 Libraries**
 *OpenCV (cv2)* – Captures real-time video and processes images
 895017
 face_recognition – Detects and recognizes faces using deep learning
@@ -41,7 +41,7 @@ OS Module – Executes Python files and manages system-level operations
 
 **Datetime** – Records date and time of attendance
 
-## **🧩 Project Structure**
+## 🧩 Project Structure**
 # Attendance-System-Using-Face-Recognition/
 │
 ├── app.py                 # Main menu (Start system / View attendance)
@@ -51,7 +51,7 @@ OS Module – Executes Python files and manages system-level operations
 ├── dipendra.jpg           # Sample student image
 ├── README.md              # Project documentation
 
-## **⚙️ How the System Works**
+## ⚙️ How the System Works**
 
 ## 1️⃣ App Menu (app.py)
 
@@ -91,7 +91,7 @@ Allows searching attendance by student name
 Displays data in a tabular format
 
 
-## **🗄️ Database Design**
+## 🗄️ Database Design**
 Database Name: attendance.db
 Table Name: attendance
 
