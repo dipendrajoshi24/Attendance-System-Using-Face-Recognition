@@ -42,14 +42,12 @@ OS Module – Executes Python files and manages system-level operations
 **Datetime** – Records date and time of attendance
 
 ## 🧩 Project Structure**
-# Attendance-System-Using-Face-Recognition/
-│
-├── app.py                 # Main menu (Start system / View attendance)
-├── main.py                # Face recognition & attendance marking logic
-├── view_attendance.py     # GUI for displaying attendance records
-├── attendance.db          # SQLite database (auto-created)
-├── dipendra.jpg           # Sample student image
-├── README.md              # Project documentation
+# Attendance-System-Using-Face-Recognition app.py # Main menu (Start system / View attendance)
+ main.py    # Face recognition & attendance marking logic
+ view_attendance.py    # GUI for displaying attendance records
+ attendance.db          # SQLite database (auto-created)
+ dipendra.jpg           # Sample student image
+ README.md              # Project documentation
 
 ## ⚙️ How the System Works**
 
